@@ -3,7 +3,7 @@ import TestimonialCard from "./TestimonialCard";
 import classes from "./Testimonials.module.css";
 import carImg from "../../../assests/cardcar.png";
 import Slider from "react-slick";
-import "slick-carousel/slick/slick2.css";
+import "slick-carousel/slick/slick1.css";
 import "slick-carousel/slick/slick-theme2.css";
 
 const Testimonials = () => {
