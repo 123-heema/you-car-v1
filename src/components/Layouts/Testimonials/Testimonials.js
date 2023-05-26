@@ -3,8 +3,8 @@ import TestimonialCard from "./TestimonialCard";
 import classes from "./Testimonials.module.css";
 import carImg from "../../../assests/cardcar.png";
 import Slider from "react-slick";
-import "slick-carousel/slick/slick2.css";
-import "slick-carousel/slick/slick-theme2.css";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 const Testimonials = () => {
   const [data, setData] = useState([]);
